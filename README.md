@@ -1,6 +1,7 @@
 # **Save People from Drowning Using YOLO POSE ESTIMATION V8**
 
-![Project Banner](![test](https://github.com/user-attachments/assets/9ed5aff6-4b15-4afb-90ce-22bc04870d55)) <!-- Replace this URL with an actual banner image if available -->
+<(https://github.com/user-attachments/assets/0bdbb7ec-3ffd-4209-8bdf-a854206c59f2)
+!-- Replace this URL with an actual banner image if available -->
 
 ## **Overview**
 This project utilizes the power of YOLOv8 (You Only Look Once) and Mediapipe to detect people in swimming pools and raise an alert if anyone is in a potentially dangerous posture (indicative of drowning). The system provides real-time video processing with bounding boxes, pose estimation, angle calculations, and an audible warning mechanism.
