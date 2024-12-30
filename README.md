@@ -80,8 +80,8 @@ python Yolo_Code.py
 ---
 
 ## **Demo**
-![Demo GIF]() <!-- Replace this with a real demo GIF -->
-*A snapshot of the system in action, showing real-time detection and alerts.*
+
+https://github.com/user-attachments/assets/012e78f8-65f3-4b0e-a81e-58b3de04660f
 
 ---
 
